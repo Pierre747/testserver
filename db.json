@@ -1,0 +1,33 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "json-server",
+			"author": "typicode"
+		}
+	],
+	"comments": [
+		{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	},
+	"tasks": [
+		{
+			"id": 1,
+			"taskName": "Nettoyer les écuries d'Augias"
+		},
+		{
+			"id": 2,
+			"taskName": "Capturer le lion de Nemée"
+		},
+		{
+			"id": 3,
+			"taskName": "Voler les pommes du jardin des Hespérides"
+		}
+	]
+}
